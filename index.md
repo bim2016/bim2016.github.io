@@ -23,4 +23,4 @@ unit testing (jasmine) -> done\
 Apache/MySQL/PHP -> done\
 ChatGPT -> done\
 AWS\
-Power Automate\
+Power Automate
