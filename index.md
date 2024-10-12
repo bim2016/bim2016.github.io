@@ -2,7 +2,6 @@
 <ul>
 <li>
 <a href="https://github.com/bim2016/Portfolio/">Portfolio</a>
-<a href="https://github.com/bim2016/Portfolio/ToDoList">To Do/Review List</a>
 </li>
 </ul>
 
