@@ -1,5 +1,4 @@
 # to do/review list:
-
 Revit 2025 (Arch/Struc/MEP) -> done\
 Navisworks 2025 -> done\
 ACC -> done\
@@ -24,3 +23,10 @@ Apache/MySQL/PHP -> done\
 ChatGPT -> done\
 AWS\
 Power Automate
+<ul>
+{% for post in site.posts %}
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+</ul>
