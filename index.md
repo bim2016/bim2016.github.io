@@ -23,10 +23,20 @@ Apache/MySQL/PHP -> done\
 ChatGPT -> done\
 AWS\
 Power Automate
+
+# draft blog post
 <ul>
 {% for post in site.posts %}
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a>
 </li>
 {% endfor %}
+</ul>
+
+# link to portfolio
+<ul>
+<li>
+<a href="https://github.com/bim2016/Portfolio/">Portfolio</a>
+<a href="https://github.com/bim2016/Portfolio/ToDoList">To Do/Review List</a>
+</li>
 </ul>
